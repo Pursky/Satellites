@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 05e9fa7f596d08c4e929c9b6434512fb
+guid: 8562ebfe23afe5a449ebf62c76d591d3
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -10,10 +10,7 @@ TrueTypeFontImporter:
   includeFontData: 1
   fontNames:
   - Calibri
-  fallbackFontReferences:
-  - {fileID: 12800000, guid: b302071527d60d04ea56cc9174c9addf, type: 3}
-  - {fileID: 12800000, guid: 22cddad545258d24ea131ea89d6f5335, type: 3}
-  - {fileID: 12800000, guid: a3956a46d1b8b274cb1d02cd404cb066, type: 3}
+  fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0
   ascentCalculationMode: 1
